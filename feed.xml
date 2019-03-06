@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.brave1984.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.brave1984.com/" rel="alternate" type="text/html" /><updated>2019-03-06T12:13:09+00:00</updated><id>https://www.brave1984.com/feed.xml</id><title type="html">黄昭隗的个人网站</title><subtitle>您好！我是黄昭隗，这是我的个人网站。书架上的读书笔记、日志里的技术实践，献给孤独的你。</subtitle><entry><title type="html">Bootstrap 的使用心得</title><link href="https://www.brave1984.com/posts/Bootstrap-%E7%9A%84%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97/" rel="alternate" type="text/html" title="Bootstrap 的使用心得" /><published>2019-02-25T13:43:53+00:00</published><updated>2019-02-25T13:43:53+00:00</updated><id>https://www.brave1984.com/posts/Bootstrap%20%E7%9A%84%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97</id><content type="html" xml:base="https://www.brave1984.com/posts/Bootstrap-%E7%9A%84%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97/">&lt;div class=&quot;document&quot;&gt;
+&lt;div class=&quot;summary docutils container&quot;&gt;
+&lt;p&gt;&lt;strong&gt;萌新&lt;/strong&gt;：&lt;a class=&quot;reference external&quot; href=&quot;https://getbootstrap.com/&quot;&gt;Bootstrap&lt;/a&gt;——真好用！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;休闲玩家&lt;/strong&gt;：&lt;a class=&quot;reference external&quot; href=&quot;https://getbootstrap.com/&quot;&gt;Bootstrap&lt;/a&gt;与&lt;em&gt;HTML&lt;/em&gt;页面耦合在一起，如何维护？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;高端玩家&lt;/strong&gt;：用&lt;a class=&quot;reference external&quot; href=&quot;http://compass-style.org/&quot;&gt;Compass&lt;/a&gt;引入&lt;a class=&quot;reference external&quot; href=&quot;https://getbootstrap.com/&quot;&gt;Bootstrap&lt;/a&gt;。&lt;/p&gt;
+&lt;/div&gt;
+&lt;!-- 摘要注释 --&gt;
+&lt;p&gt;虽然&lt;a class=&quot;reference external&quot; href=&quot;https://getbootstrap.com/&quot;&gt;Bootstrap&lt;/a&gt;已经”烂大街“了，但是它起码是个完整的CSS组件库。&lt;/p&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="Web" /><category term="Bootstrap" /><category term="CSS" /><summary type="html">萌新：Bootstrap——真好用！ 休闲玩家：Bootstrap与HTML页面耦合在一起，如何维护？ 高端玩家：用Compass引入Bootstrap。</summary></entry><entry><title type="html">拥抱 GNU/Linux</title><link href="https://www.brave1984.com/posts/%E6%8B%A5%E6%8A%B1-GNU-Linux/" rel="alternate" type="text/html" title="拥抱 GNU/Linux" /><published>2019-01-18T03:55:20+00:00</published><updated>2019-01-18T03:55:20+00:00</updated><id>https://www.brave1984.com/posts/%E6%8B%A5%E6%8A%B1%20GNU%20Linux</id><content type="html" xml:base="https://www.brave1984.com/posts/%E6%8B%A5%E6%8A%B1-GNU-Linux/">&lt;div class=&quot;document&quot;&gt;
+&lt;div class=&quot;summary docutils container&quot;&gt;
+&lt;p&gt;&lt;strong&gt;萌新&lt;/strong&gt;：《炉石传说》的橙卡掉率又被调低了，我要&lt;em&gt;AFK&lt;/em&gt;……&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;休闲玩家&lt;/strong&gt;：自从用上&lt;a class=&quot;reference external&quot; href=&quot;http://www.gnu.org/&quot;&gt;GNU&lt;/a&gt;/&lt;a class=&quot;reference external&quot; href=&quot;https://www.kernel.org/&quot;&gt;Linux&lt;/a&gt;后，值不充、（智商）税不缴，浑身都“得劲”。&lt;/p&gt;
+&lt;/div&gt;
+&lt;!-- 摘要注释 --&gt;
+&lt;p&gt;用了近半年的“&lt;a class=&quot;reference external&quot; href=&quot;http://www.gnu.org/&quot;&gt;GNU&lt;/a&gt;/&lt;a class=&quot;reference external&quot; href=&quot;https://www.kernel.org/&quot;&gt;Linux&lt;/a&gt;”后，不谈其对&lt;em&gt;ssh&lt;/em&gt;、&lt;a class=&quot;reference external&quot; href=&quot;https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce`&quot;&gt;Docker&lt;/a&gt;的友好支持，我只想说——我能够心无旁骛地写好代码了。在&lt;a class=&quot;reference external&quot; href=&quot;https://wiki.gnome.org/Apps/Terminal&quot;&gt;Terminal&lt;/a&gt;中可以打开多个标签页，而每个&lt;a class=&quot;reference external&quot; href=&quot;https://www.vim.org/&quot;&gt;VIM&lt;/a&gt;窗口又可以打开多个标签，配合上快捷键，就能脱离鼠标干活了。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.ubuntu.com/&quot;&gt;Ubuntu&lt;/a&gt;的&lt;em&gt;UI&lt;/em&gt;设计得比&lt;a class=&quot;reference external&quot; href=&quot;https://www.debian.org/&quot;&gt;Debian&lt;/a&gt;的好，而&lt;a class=&quot;reference external&quot; href=&quot;https://wiki.ubuntu.com/CosmicCuttlefish/ReleaseNotes&quot;&gt;18.10&lt;/a&gt;又比&lt;a class=&quot;reference external&quot; href=&quot;https://wiki.ubuntu.com/BionicBeaver/ReleaseNotes/18.04&quot;&gt;18.04 LTS&lt;/a&gt;美观，可以用&lt;a class=&quot;reference external&quot; href=&quot;https://www.balena.io/etcher/&quot;&gt;etcher&lt;/a&gt;来制作系统镜像。&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;id1&quot;&gt;
+&lt;h2&gt;程序设计&lt;/h2&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce`&quot;&gt;Docker&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://github.com/docker/compose/releases&quot;&gt;Docker Compose&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://wiki.postgresql.org/wiki/Apt&quot;&gt;PostgreSQL&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;section&quot; id=&quot;javascript&quot;&gt;
+&lt;h3&gt;JavaScript&lt;/h3&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://github.com/nodesource/distributions/blob/master/README.md#debinstall&quot;&gt;Node.js&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://yarnpkg.com/zh-Hans/docs/install#debian-stable&quot;&gt;Yarn&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;ruby&quot;&gt;
+&lt;h3&gt;Ruby&lt;/h3&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://github.com/rbenv/ruby-build/wiki#suggested-build-environment&quot;&gt;ruby-build&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://github.com/rbenv/rbenv#basic-github-checkout&quot;&gt;rbenv&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.ruby-lang.org/&quot;&gt;Ruby&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;python&quot;&gt;
+&lt;h3&gt;Python&lt;/h3&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://packaging.python.org/guides/installing-using-linux-tools/#debian-ubuntu&quot;&gt;pip&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://pipenv.readthedocs.io/en/latest/install/&quot;&gt;Pipenv&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;lisp&quot;&gt;
+&lt;h3&gt;Lisp&lt;/h3&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://clojure.org/guides/getting_started#_installation_on_linux&quot;&gt;Clojure&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://github.com/cisco/chezscheme&quot;&gt;Chez Scheme&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;id3&quot;&gt;
+&lt;h2&gt;工具&lt;/h2&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;p&gt;vim&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;default-jdk&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;fcitx-sunpinyin&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://lynx.invisible-island.net/&quot;&gt;Lynx&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://snapcraft.io/postman&quot;&gt;Postman&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://snapcraft.io/gitkraken&quot;&gt;GitKraken&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://snapcraft.io/slack&quot;&gt;Slack&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://snapcraft.io/chromium&quot;&gt;Chromium&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://snapcraft.io/vlc&quot;&gt;VLC&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://snapcraft.io/libreoffice&quot;&gt;LibreOffice&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://www.balena.io/etcher/&quot;&gt;etcher&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://github.com/kovidgoyal/calibre&quot;&gt;calibre&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://github.com/OpenRefine/OpenRefine/wiki/Installation-Instructions#linux&quot;&gt;OpenRefine&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="GNU/Linux" /><category term="工具" /><summary type="html">萌新：《炉石传说》的橙卡掉率又被调低了，我要AFK…… 休闲玩家：自从用上GNU/Linux后，值不充、（智商）税不缴，浑身都“得劲”。</summary></entry><entry><title type="html">VIM，手的延伸</title><link href="https://www.brave1984.com/posts/VIM-%E6%89%8B%E7%9A%84%E5%BB%B6%E4%BC%B8/" rel="alternate" type="text/html" title="VIM，手的延伸" /><published>2019-01-02T01:11:25+00:00</published><updated>2019-01-02T01:11:25+00:00</updated><id>https://www.brave1984.com/posts/VIM,%E6%89%8B%E7%9A%84%E5%BB%B6%E4%BC%B8</id><content type="html" xml:base="https://www.brave1984.com/posts/VIM-%E6%89%8B%E7%9A%84%E5%BB%B6%E4%BC%B8/">&lt;div class=&quot;document&quot;&gt;
+&lt;div class=&quot;summary docutils container&quot;&gt;
+&lt;p&gt;&lt;strong&gt;团长&lt;/strong&gt;： 赶紧把这个&lt;a class=&quot;reference external&quot; href=&quot;https://www.python.org/&quot;&gt;Python&lt;/a&gt;脚本给我改好！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;萌新&lt;/strong&gt;： 好的，先等我把&lt;a class=&quot;reference external&quot; href=&quot;http://www.jetbrains.com/pycharm/&quot;&gt;Pycharm&lt;/a&gt;打开。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;休闲玩家&lt;/strong&gt;： 你就不能用&lt;a class=&quot;reference external&quot; href=&quot;https://www.vim.org/&quot;&gt;VIM&lt;/a&gt;？&lt;/p&gt;
+&lt;/div&gt;
+&lt;!-- 摘要注释 --&gt;
+&lt;p&gt;用好一种&lt;strong&gt;可配置&lt;/strong&gt;、&lt;strong&gt;可扩展&lt;/strong&gt;、&lt;strong&gt;可编程&lt;/strong&gt;的编辑器。学习它，扩展它，拥有它！&lt;/p&gt;
+&lt;p&gt;本文参考自：&lt;a class=&quot;reference external&quot; href=&quot;https://realpython.com/vim-and-python-a-match-made-in-heaven/&quot;&gt;VIM and Python – A Match Made in Heaven&lt;/a&gt;，增加了&lt;a class=&quot;reference external&quot; href=&quot;https://github.com/python-mode/python-mode&quot;&gt;Python-mode&lt;/a&gt;等插件。&lt;/p&gt;
+&lt;div class=&quot;section&quot; id=&quot;id1&quot;&gt;
+&lt;h2&gt;安装插件&lt;/h2&gt;
+&lt;p&gt;利用&lt;a class=&quot;reference external&quot; href=&quot;https://www.vim.org/&quot;&gt;VIM&lt;/a&gt; 8的原生包管理功能，从&lt;a class=&quot;reference external&quot; href=&quot;https://github.com/&quot;&gt;GitHub&lt;/a&gt;上克隆以下插件到&lt;em&gt;~/.vim/pack/foo/start&lt;/em&gt;目录：&lt;/p&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://github.com/Valloric/YouCompleteMe&quot;&gt;YouCompleteMe&lt;/a&gt;（自动完成）&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://github.com/python-mode/python-mode&quot;&gt;Python-mode&lt;/a&gt;（Python语法突显&amp;amp;代码重构）&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://github.com/mattn/emmet-vim&quot;&gt;emmet-vim&lt;/a&gt;（HTML &amp;amp; CSS）&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://github.com/scrooloose/nerdtree&quot;&gt;NERDTree&lt;/a&gt;（目录文件导航）&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://github.com/vim-airline/vim-airline&quot;&gt;vim-airline&lt;/a&gt;（状态条）&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://github.com/tpope/vim-fugitive&quot;&gt;vim-fugitive&lt;/a&gt;（git扩展）&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://github.com/yianwillis/vimcdoc&quot;&gt;vimcdoc&lt;/a&gt;（中文文档）&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&quot;code bash literal-block&quot;&gt;&lt;code&gt;mkdir -p &lt;span class=&quot;nv&quot;&gt;$HOME&lt;/span&gt;/.vim/pack/foo/start
+&lt;span class=&quot;nb&quot;&gt;cd&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;$HOME&lt;/span&gt;/.vim/pack/foo/start
+
+apt-get install -yqq --no-install-recommends build-essential cmake python3-dev
+git clone --recurse-submodules &lt;span class=&quot;s2&quot;&gt;&amp;quot;https://github.com/Valloric/YouCompleteMe.git&amp;quot;&lt;/span&gt;
+
+git clone --recurse-submodules &lt;span class=&quot;s2&quot;&gt;&amp;quot;https://github.com/python-mode/python-mode.git&amp;quot;&lt;/span&gt;
+git clone &lt;span class=&quot;s2&quot;&gt;&amp;quot;https://github.com/mattn/emmet-vim.git&amp;quot;&lt;/span&gt;
+git clone &lt;span class=&quot;s2&quot;&gt;&amp;quot;https://github.com/scrooloose/nerdtree.git&amp;quot;&lt;/span&gt;
+git clone &lt;span class=&quot;s2&quot;&gt;&amp;quot;https://github.com/vim-airline/vim-airline.git&amp;quot;&lt;/span&gt;
+git clone &lt;span class=&quot;s2&quot;&gt;&amp;quot;https://github.com/tpope/vim-fugitive.git&amp;quot;&lt;/span&gt;
+git clone &lt;span class=&quot;s2&quot;&gt;&amp;quot;https://github.com/yianwillis/vimcdoc.git&amp;quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;id2&quot;&gt;
+&lt;h2&gt;配置VIM&lt;/h2&gt;
+&lt;p&gt;添加插件的帮助文档：&lt;/p&gt;
+&lt;pre class=&quot;code bash literal-block&quot;&gt;&lt;code&gt;vim -u NONE &lt;span class=&quot;se&quot;&gt;\
+&lt;/span&gt;        -c &lt;span class=&quot;s2&quot;&gt;&amp;quot;helptags YouCompleteMe/doc&amp;quot;&lt;/span&gt; &lt;span class=&quot;se&quot;&gt;\
+&lt;/span&gt;        -c &lt;span class=&quot;s2&quot;&gt;&amp;quot;helptags python-mode/doc&amp;quot;&lt;/span&gt; &lt;span class=&quot;se&quot;&gt;\
+&lt;/span&gt;        -c &lt;span class=&quot;s2&quot;&gt;&amp;quot;helptags emmet-vim/doc&amp;quot;&lt;/span&gt; &lt;span class=&quot;se&quot;&gt;\
+&lt;/span&gt;        -c &lt;span class=&quot;s2&quot;&gt;&amp;quot;helptags nerdtree/doc&amp;quot;&lt;/span&gt; &lt;span class=&quot;se&quot;&gt;\
+&lt;/span&gt;        -c &lt;span class=&quot;s2&quot;&gt;&amp;quot;helptags vim-airline/doc&amp;quot;&lt;/span&gt; &lt;span class=&quot;se&quot;&gt;\
+&lt;/span&gt;        -c &lt;span class=&quot;s2&quot;&gt;&amp;quot;helptags vim-fugitive/doc&amp;quot;&lt;/span&gt; &lt;span class=&quot;se&quot;&gt;\
+&lt;/span&gt;        -c &lt;span class=&quot;s2&quot;&gt;&amp;quot;helptags vimcdoc/doc&amp;quot;&lt;/span&gt; &lt;span class=&quot;se&quot;&gt;\
+&lt;/span&gt;        -c q&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;在&lt;span class=&quot;docutils literal&quot;&gt;$HOME&lt;/span&gt;目录下，添加&lt;em&gt;.vimrc&lt;/em&gt;文件，代码如下：&lt;/p&gt;
+&lt;pre class=&quot;code vim literal-block&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;set&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;nocompatible&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;syntax&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;on&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;filetype&lt;/span&gt; off
+
+&lt;span class=&quot;k&quot;&gt;set&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;expandtab&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;set&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;tabstop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;4&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;shiftwidth&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;4&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;softtabstop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;4&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;set&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;autoindent&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;au&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;BufNewFile&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;BufRead&lt;/span&gt; *.&lt;span class=&quot;nb&quot;&gt;js&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;*.html&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;*.scss&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;*.yml&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;*.rb&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;Rakefile
+    \ &lt;span class=&quot;k&quot;&gt;set&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;expandtab&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;|&lt;/span&gt;
+    \ &lt;span class=&quot;k&quot;&gt;set&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;tabstop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;shiftwidth&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;softtabstop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;|&lt;/span&gt;
+    \ &lt;span class=&quot;k&quot;&gt;set&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;autoindent&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;set&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;splitbelow&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;set&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;splitright&lt;/span&gt;
+
+&lt;span class=&quot;nb&quot;&gt;nnoremap&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;C&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt;J&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;C&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt;W&lt;span class=&quot;p&quot;&gt;&amp;gt;&amp;lt;&lt;/span&gt;C&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt;J&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;nnoremap&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;C&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt;K&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;C&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt;W&lt;span class=&quot;p&quot;&gt;&amp;gt;&amp;lt;&lt;/span&gt;C&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt;K&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;nnoremap&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;C&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt;L&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;C&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt;W&lt;span class=&quot;p&quot;&gt;&amp;gt;&amp;lt;&lt;/span&gt;C&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt;L&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;nnoremap&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;C&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt;H&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;C&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt;W&lt;span class=&quot;p&quot;&gt;&amp;gt;&amp;lt;&lt;/span&gt;C&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt;H&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;set&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;foldmethod&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;=&lt;/span&gt;indent
+&lt;span class=&quot;k&quot;&gt;set&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;foldlevel&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;99&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;nnoremap&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;space&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt; za
+
+&lt;span class=&quot;k&quot;&gt;set&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;encoding&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;=&lt;/span&gt;utf&lt;span class=&quot;m&quot;&gt;-8&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;set&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;nu&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;set&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;hls&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;is&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;set&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;clipboard&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;=&lt;/span&gt;unnamed
+&lt;span class=&quot;c&quot;&gt;
+&amp;quot; python-mode&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;g&lt;/span&gt;:pymode_python &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'python3'&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;g&lt;/span&gt;:pymode_folding &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;g&lt;/span&gt;:pymode_lint_on_unmodified &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;g&lt;/span&gt;:pymode_lint_on_fly &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;g&lt;/span&gt;:pymode_syntax &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;g&lt;/span&gt;:pymode_syntax_all &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;g&lt;/span&gt;:pymode_run_bind &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'&amp;lt;F5&amp;gt;'&lt;/span&gt;
+&lt;span class=&quot;c&quot;&gt;
+&amp;quot; NERDTree&lt;/span&gt;
+autocmd vimenter * NERDTree
+map &lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;C&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt; :NERDTreeToggle&lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;CR&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;
+autocmd bufenter * &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;winnr&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;$&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;1&lt;/span&gt; &amp;amp;&amp;amp; exists&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;b:NERDTree&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &amp;amp;&amp;amp; &lt;span class=&quot;k&quot;&gt;b&lt;/span&gt;:NERDTree.isTabTree&lt;span class=&quot;p&quot;&gt;())&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;q&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;endif&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;let&lt;/span&gt; NERDTreeIgnore&lt;span class=&quot;p&quot;&gt;=&lt;/span&gt;[&lt;span class=&quot;s1&quot;&gt;'^.git$'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'^__pycache__$'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'\.pyc$'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'\~$'&lt;/span&gt;]
+&lt;span class=&quot;c&quot;&gt;
+&amp;quot; YouCompleteMe&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;g&lt;/span&gt;:ycm_autoclose_preview_window_after_completion&lt;span class=&quot;p&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt;
+map &lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;leader&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;g&lt;/span&gt;  :YcmCompleter GoToDefinitionElseDeclaration&lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt;CR&lt;span class=&quot;p&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;c&quot;&gt;
+&amp;quot; emmet-vim&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;g&lt;/span&gt;:user_emmet_settings &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; {
+\   &lt;span class=&quot;s1&quot;&gt;'html'&lt;/span&gt;: {
+\       &lt;span class=&quot;s1&quot;&gt;'snippets'&lt;/span&gt;: {
+\           &lt;span class=&quot;s1&quot;&gt;'html:5'&lt;/span&gt;: &lt;span class=&quot;s2&quot;&gt;&amp;quot;&amp;lt;!DOCTYPE html&amp;gt;\n&amp;quot;&lt;/span&gt;
+\               .&lt;span class=&quot;s2&quot;&gt;&amp;quot;&amp;lt;html lang=\&amp;quot;${lang}\&amp;quot;&amp;gt;\n&amp;quot;&lt;/span&gt;
+\               .&lt;span class=&quot;s2&quot;&gt;&amp;quot;&amp;lt;head&amp;gt;\n&amp;quot;&lt;/span&gt;
+\               .&lt;span class=&quot;s2&quot;&gt;&amp;quot;\t&amp;lt;meta charset=\&amp;quot;${charset}\&amp;quot;&amp;gt;\n&amp;quot;&lt;/span&gt;
+\               .&lt;span class=&quot;s2&quot;&gt;&amp;quot;\t&amp;lt;meta name=\&amp;quot;viewport\&amp;quot; content=\&amp;quot;width=device-width, initial-scale=1, shrink-to-fit=no\&amp;quot;&amp;gt;\n&amp;quot;&lt;/span&gt;
+\               .&lt;span class=&quot;s2&quot;&gt;&amp;quot;\t&amp;lt;meta http-equiv=\&amp;quot;X-UA-Compatible\&amp;quot; content=\&amp;quot;ie=edge\&amp;quot;&amp;gt;\n&amp;quot;&lt;/span&gt;
+\               .&lt;span class=&quot;s2&quot;&gt;&amp;quot;\t&amp;lt;title&amp;gt;&amp;lt;/title&amp;gt;\n&amp;quot;&lt;/span&gt;
+\               .&lt;span class=&quot;s2&quot;&gt;&amp;quot;&amp;lt;/head&amp;gt;\n&amp;quot;&lt;/span&gt;
+\               .&lt;span class=&quot;s2&quot;&gt;&amp;quot;&amp;lt;body&amp;gt;\n\t${child}|\n&amp;lt;/body&amp;gt;\n&amp;quot;&lt;/span&gt;
+\               .&lt;span class=&quot;s2&quot;&gt;&amp;quot;&amp;lt;/html&amp;gt;&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+\       }&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+\   }&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+\}
+
+&lt;span class=&quot;k&quot;&gt;filetype&lt;/span&gt; plugin indent &lt;span class=&quot;k&quot;&gt;on&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;footer&quot;&gt;
+&lt;hr class=&quot;footer&quot; /&gt;
+&lt;p&gt;DPS垫底，就是木桩（&lt;span class=&quot;docutils literal&quot;&gt;$ vimtutor zh&lt;/span&gt;）打得少！&lt;/p&gt;
+
+&lt;/div&gt;</content><author><name></name></author><category term="Python" /><category term="VIM" /><category term="工具" /><summary type="html">团长： 赶紧把这个Python脚本给我改好！ 萌新： 好的，先等我把Pycharm打开。 休闲玩家： 你就不能用VIM？</summary></entry><entry><title type="html">.rst to .html</title><link href="https://www.brave1984.com/posts/rst-to-html/" rel="alternate" type="text/html" title=".rst to .html" /><published>2019-01-02T01:09:59+00:00</published><updated>2019-01-02T01:09:59+00:00</updated><id>https://www.brave1984.com/posts/rst%20to%20html</id><content type="html" xml:base="https://www.brave1984.com/posts/rst-to-html/">&lt;div class=&quot;document&quot;&gt;
+&lt;div class=&quot;summary docutils container&quot;&gt;
+&lt;p&gt;&lt;strong&gt;高端玩家&lt;/strong&gt;： &lt;a class=&quot;reference external&quot; href=&quot;http://www.ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/&quot;&gt;Don't Use Markdown for Technical Docs！&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;萌新&lt;/strong&gt;： 没有什么技术文档是&lt;a class=&quot;reference external&quot; href=&quot;https://daringfireball.net/projects/markdown/syntax&quot;&gt;Markdown&lt;/a&gt;无法表述的，不行就加个&lt;span class=&quot;docutils literal&quot;&gt;div&lt;/span&gt;元素。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NPC&lt;/strong&gt;： 为咩不用&lt;em&gt;Word&lt;/em&gt;?&lt;/p&gt;
+&lt;/div&gt;
+&lt;!-- 摘要注释 --&gt;
+&lt;div class=&quot;section&quot; id=&quot;id1&quot;&gt;
+&lt;h2&gt;起因&lt;/h2&gt;
+&lt;p&gt;本站的内容起初是使用&lt;a class=&quot;reference external&quot; href=&quot;https://daringfireball.net/projects/markdown/syntax&quot;&gt;Markdown&lt;/a&gt;编写的，在样式表中给&lt;span class=&quot;docutils literal&quot;&gt;p&lt;/span&gt;元素添加了首行缩进。文本转译成&lt;em&gt;.html&lt;/em&gt;后，原本独立的&lt;span class=&quot;docutils literal&quot;&gt;img&lt;/span&gt;元素被包裹在&lt;span class=&quot;docutils literal&quot;&gt;p&lt;/span&gt;标签中。&lt;/p&gt;
+&lt;p&gt;这就导致：不符合语义；移动端显示时，图片因缩进，而溢出屏幕边界。&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;id2&quot;&gt;
+&lt;h2&gt;经过&lt;/h2&gt;
+&lt;p&gt;解决方法不外乎：1、在文本中插入一个&lt;span class=&quot;docutils literal&quot;&gt;div&lt;/span&gt;元素；2、使用新的文本标记语言。&lt;/p&gt;
+&lt;p&gt;因为插入&lt;span class=&quot;docutils literal&quot;&gt;div&lt;/span&gt;元素不能彻底解决问题，所以将&lt;a class=&quot;reference external&quot; href=&quot;https://daringfireball.net/projects/markdown/syntax&quot;&gt;Markdown&lt;/a&gt;替换成&lt;a class=&quot;reference external&quot; href=&quot;http://docutils.sourceforge.net/rst.html&quot;&gt;reStructuredText&lt;/a&gt;（被用于编写&lt;a class=&quot;reference external&quot; href=&quot;https://www.python.org/&quot;&gt;Python&lt;/a&gt;文档）。&lt;a class=&quot;reference external&quot; href=&quot;http://docutils.sourceforge.net/rst.html&quot;&gt;reStructuredText&lt;/a&gt;可以通过&lt;span class=&quot;docutils literal&quot;&gt;include&lt;/span&gt;指令引用外部文档（如：代码片段），达到去除冗余的目的。&lt;/p&gt;
+&lt;p&gt;接下来，要做的只是：编写一个&lt;a class=&quot;reference external&quot; href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; &lt;a class=&quot;reference external&quot; href=&quot;https://jekyllrb.com/docs/plugins/converters/&quot;&gt;Converters&lt;/a&gt;插件，通过管道调用外部的&lt;a class=&quot;reference external&quot; href=&quot;https://www.python.org/&quot;&gt;Python&lt;/a&gt;脚本，将文本由&lt;em&gt;.rst&lt;/em&gt;格式转换成&lt;em&gt;.html&lt;/em&gt;格式。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;http://docutils.sourceforge.net/&quot;&gt;Docutils&lt;/a&gt;源码中提供了相应的工具：&lt;a class=&quot;reference external&quot; href=&quot;https://sourceforge.net/p/docutils/code/HEAD/tree/trunk/docutils/tools/rst2html5.py&quot;&gt;rst2html5.py&lt;/a&gt;脚本，但这个转换脚本将输出一个带有&lt;span class=&quot;docutils literal&quot;&gt;head&lt;/span&gt;部分的&lt;em&gt;.html&lt;/em&gt;文本。&lt;span class=&quot;docutils literal&quot;&gt;publish_cmdline&lt;/span&gt;函数位于docutils目录下的&lt;a class=&quot;reference external&quot; href=&quot;https://sourceforge.net/p/docutils/code/HEAD/tree/trunk/docutils/docutils/core.py&quot;&gt;core.py&lt;/a&gt;文件中，此文件内包含有一个&lt;span class=&quot;docutils literal&quot;&gt;Publisher&lt;/span&gt;类和多个以“&lt;em&gt;publish&lt;/em&gt;”开头的函数。&lt;/p&gt;
+&lt;p&gt;通过阅读文档字符串，可以看到&lt;span class=&quot;docutils literal&quot;&gt;publish_parts&lt;/span&gt;函数返回：&lt;em&gt;a dictionary of document parts&lt;/em&gt;（&lt;span class=&quot;docutils literal&quot;&gt;pub.writer.parts&lt;/span&gt;）。&lt;span class=&quot;docutils literal&quot;&gt;pub&lt;/span&gt;对象，又是通过调用&lt;span class=&quot;docutils literal&quot;&gt;publish_programmatically&lt;/span&gt;函数——实例化&lt;span class=&quot;docutils literal&quot;&gt;Publisher&lt;/span&gt;类——产生的。&lt;/p&gt;
+&lt;p&gt;查看&lt;em&gt;docutils/writers&lt;/em&gt;目录下的&lt;a class=&quot;reference external&quot; href=&quot;https://sourceforge.net/p/docutils/code/HEAD/tree/trunk/docutils/docutils/writers/_html_base.py&quot;&gt;_html_base.py&lt;/a&gt;文件，可以获悉一个&lt;em&gt;.html&lt;/em&gt;文本究竟是由哪几部分构成：&lt;/p&gt;
+&lt;pre class=&quot;code python literal-block&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;visitor_attributes&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+    &lt;span class=&quot;s1&quot;&gt;'head_prefix'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'head'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'stylesheet'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'body_prefix'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;s1&quot;&gt;'body_pre_docinfo'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'docinfo'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'body'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'body_suffix'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;s1&quot;&gt;'title'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'subtitle'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'header'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'footer'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'meta'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'fragment'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;s1&quot;&gt;'html_prolog'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'html_head'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'html_title'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'html_subtitle'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;s1&quot;&gt;'html_body'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;于是乎，我们可以编写出如下的&lt;em&gt;.rst&lt;/em&gt; to &lt;em&gt;.html&lt;/em&gt;转换函数：&lt;/p&gt;
+&lt;pre class=&quot;code python literal-block&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;settings&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'syntax_highlight'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'short'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+            &lt;span class=&quot;s1&quot;&gt;'initial_header_level'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+            &lt;span class=&quot;s1&quot;&gt;'raw_enabled'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;False&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;converter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;source&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;part&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;html_body&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;parts&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;publish_parts&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;source&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;writer_name&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'html5'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;settings_overrides&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;settings&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;parts&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;get&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;part&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;''&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;ul class=&quot;simple&quot;&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://sourceforge.net/p/docutils/code/HEAD/tree/trunk/docutils/docutils/writers/html5_polyglot/__init__.py#l48&quot;&gt;settings_overrides参数配置&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://sourceforge.net/p/docutils/code/HEAD/tree/trunk/docutils/docutils/writers/__init__.py#l120&quot;&gt;writer_name参数配置&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;http://docutils.sourceforge.net/docs/user/config.html&quot;&gt;docutils配置&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class=&quot;reference external&quot; href=&quot;https://github.com/dracula/pygments&quot;&gt;Dracula for Pygments&lt;/a&gt;，请将样式表中的&lt;em&gt;highlight&lt;/em&gt;类替换成&lt;em&gt;code&lt;/em&gt;类。&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class=&quot;section&quot; id=&quot;id3&quot;&gt;
+&lt;h2&gt;结果&lt;/h2&gt;
+&lt;p&gt;在&lt;a class=&quot;reference external&quot; href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;项目的&lt;em&gt;_plugins/rst2html&lt;/em&gt;目录下，编写插件&lt;em&gt;converter.rb&lt;/em&gt;和&lt;em&gt;rst2html5.py&lt;/em&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;converter.rb&lt;/em&gt;，代码如下：&lt;/p&gt;
+&lt;pre class=&quot;code ruby literal-block&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;module&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;Jekyll&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;RstConverter&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Converter&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;safe&lt;/span&gt; &lt;span class=&quot;kp&quot;&gt;true&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;priority&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;:low&lt;/span&gt;
+
+    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;matches&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ext&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+      &lt;span class=&quot;n&quot;&gt;ext&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=~&lt;/span&gt; &lt;span class=&quot;sr&quot;&gt;/rst/i&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+
+    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;output_ext&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ext&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+      &lt;span class=&quot;s2&quot;&gt;&amp;quot;.html&amp;quot;&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+
+    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;convert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;content&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+      &lt;span class=&quot;no&quot;&gt;IO&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;popen&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;python3 &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;File&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;expand_path&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;File&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;dirname&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;__FILE__&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;/rst2html5.py&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'r+'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pipe&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;pipe&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;puts&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;content&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;pipe&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;close_write&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;result&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pipe&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;read&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;pipe&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;close_read&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;result&lt;/span&gt;
+      &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+
+  &lt;span class=&quot;k&quot;&gt;module&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;Filters&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;rst&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;input&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+      &lt;span class=&quot;n&quot;&gt;site&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;vi&quot;&gt;&amp;#64;context&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;registers&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;:site&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt;
+      &lt;span class=&quot;n&quot;&gt;converter&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;find_converter_instance&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Jekyll&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Converters&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;RstConverter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+      &lt;span class=&quot;n&quot;&gt;converter&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;convert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;input&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;em&gt;rst2html5.py&lt;/em&gt;，代码如下：&lt;/p&gt;
+&lt;pre class=&quot;code python literal-block&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;try&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;locale&lt;/span&gt;  &lt;span class=&quot;c1&quot;&gt;# module missing in Jython&lt;/span&gt;
+
+    &lt;span class=&quot;n&quot;&gt;locale&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;setlocale&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;locale&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;LC_ALL&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;''&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;except&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;locale&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Error&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;pass&lt;/span&gt;
+
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;sys&lt;/span&gt;
+
+&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;docutils.core&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;publish_parts&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;settings&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'syntax_highlight'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'short'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+            &lt;span class=&quot;s1&quot;&gt;'initial_header_level'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+            &lt;span class=&quot;s1&quot;&gt;'raw_enabled'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;bp&quot;&gt;False&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;converter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;source&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;part&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;html_body&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;parts&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;publish_parts&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;source&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;writer_name&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'html5'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;settings_overrides&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;settings&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;parts&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;get&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;part&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;''&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+
+
+&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;vm&quot;&gt;__name__&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;__main__&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;converter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sys&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;stdin&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;read&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()))&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;footer&quot;&gt;
+&lt;hr class=&quot;footer&quot; /&gt;
+&lt;p&gt;本插件依赖于第三方&lt;a class=&quot;reference external&quot; href=&quot;https://www.python.org/&quot;&gt;Python&lt;/a&gt;模块：&lt;a class=&quot;reference external&quot; href=&quot;http://pygments.org/&quot;&gt;Pygments&lt;/a&gt;、&lt;a class=&quot;reference external&quot; href=&quot;http://docutils.sourceforge.net/&quot;&gt;Docutils&lt;/a&gt;。&lt;/p&gt;
+
+&lt;/div&gt;</content><author><name></name></author><category term="Python" /><category term="文档" /><category term="工具" /><summary type="html">高端玩家： Don't Use Markdown for Technical Docs！ 萌新： 没有什么技术文档是Markdown无法表述的，不行就加个div元素。 NPC： 为咩不用Word?</summary></entry><entry><title type="html">Hello, Jekyll!</title><link href="https://www.brave1984.com/posts/Hello,-Jekyll!/" rel="alternate" type="text/html" title="Hello, Jekyll!" /><published>2018-12-31T02:57:51+00:00</published><updated>2018-12-31T02:57:51+00:00</updated><id>https://www.brave1984.com/posts/Hello,%20Jekyll!</id><content type="html" xml:base="https://www.brave1984.com/posts/Hello,-Jekyll!/">&lt;div class=&quot;document&quot;&gt;
+&lt;div class=&quot;summary docutils container&quot;&gt;
+&lt;p&gt;&lt;strong&gt;休闲玩家&lt;/strong&gt;： 我用&lt;a class=&quot;reference external&quot; href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;搭建了个人网站。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;萌新&lt;/strong&gt;： &lt;a class=&quot;reference external&quot; href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;，就是能托管在&lt;a class=&quot;reference external&quot; href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;上的那个静态网站生成器么？等等，你从&lt;a class=&quot;reference external&quot; href=&quot;https://www.python.org/&quot;&gt;Python&lt;/a&gt;转&lt;a class=&quot;reference external&quot; href=&quot;https://www.ruby-lang.org/&quot;&gt;Ruby&lt;/a&gt;呢？&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;休闲玩家&lt;/strong&gt;： ……&lt;/p&gt;
+&lt;/div&gt;
+&lt;!-- 摘要注释 --&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="Web" /><category term="Jekyll" /><summary type="html">休闲玩家： 我用Jekyll搭建了个人网站。 萌新： Jekyll，就是能托管在GitHub Pages上的那个静态网站生成器么？等等，你从Python转Ruby呢？ 休闲玩家： ……</summary></entry></feed>
